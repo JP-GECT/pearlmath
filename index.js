@@ -2,4 +2,9 @@ function helloWorld() {
     return "hello world"
   }
   
-  module.exports = helloWorld
+
+function add(a, b) {
+    return a + b
+  }
+
+  module.exports = helloWorld, add
