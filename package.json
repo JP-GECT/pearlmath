@@ -1,0 +1,22 @@
+{
+  "name": "pearlmath",
+  "version": "1.0.0",
+  "description": "math-library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JP-GECT/pearlmath.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Joseph-pauly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JP-GECT/pearlmath/issues"
+  },
+  "homepage": "https://github.com/JP-GECT/pearlmath#readme"
+}
